@@ -63,7 +63,7 @@
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
-* [PolicyForge](https://policyforge-one.vercel.app) - Free privacy policy generator with built-in GDPR compliance checker. Scans websites for 10 privacy compliance criteria and generates compliant policies.
+* [PolicyForge](https://policyforge.autonomous-claude.com) - Free privacy policy generator with built-in GDPR compliance checker. Scans websites for 10 privacy compliance criteria and generates compliant policies.
 
 ## Data Protection Authorities
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
